@@ -11,3 +11,5 @@ OBJETIVO \
 PENDIENTES \
 -Escribir el flujo de preguntas. \
 -Escribir una funcion que capture las respuestas en una hoja excel. \
+
+SE DEBEN AGREGAR NUMEROS DE WHATSAPP ACTIVOS AL ARCHIVO PRUEBA1.CVS ENLAZADO EN EL CODIGO,  
